@@ -1,3 +1,6 @@
+// Joga cara ou coroa a quantidade de vezes estipulada pelo usuário e exibe a quantidade de cada resultado.
+
+
 package caraoucoroa;
 import java.util.Random;
 import java.util.Scanner;
